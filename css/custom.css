@@ -22,7 +22,7 @@ body {
   z-index: -100;
   opacity: .2;
   top: 0;
-  left: -100px;
+  left: 20px;
   border: 0px;
   height: 100%;
 }
