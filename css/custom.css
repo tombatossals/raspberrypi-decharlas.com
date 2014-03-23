@@ -133,6 +133,7 @@ body {
 .reveal section.fullscreen h1 {
     font-size: 1.4em;
     background: white;
+    color: #222;
     opacity: 0.8;
     border-radius: 8px;
     padding: .4em 0em;
@@ -142,8 +143,8 @@ body {
   position: absolute;
   z-index: -100;
   opacity: .8;
-  top: 0;
-  right: 0px;
+  top: -5px;
+  left: 10px;
   border: 0px;
   height: 100%;
 }
@@ -171,6 +172,48 @@ body {
     border: 0px;
 }
 
-section.present {
-	background-color: #888;
+section#front {
+	background-color: #AAB2BD;
+    border-radius: 8px;
+}
+
+.reveal section .blue {
+    color: #5D9CEC;
+}
+
+.reveal section .darkblue {
+    color: #4A8900;
+}
+
+.reveal section .yellow {
+    color: #FFCE54;
+}
+
+.reveal section .grey {
+    color: #CCD1D9;
+}
+
+.reveal section .red {
+    color: #DA4453;
+}
+
+.reveal section .pink {
+    color: #EC87C0;
+}
+
+.reveal section .green {
+    color: #A0D468;
+}
+
+.reveal section .left {
+    float: left;
+}
+
+.reveal section .right {
+    float: right;
+}
+
+.reveal section .big {
+    font-size: 2em;
+    font-weight: bold;
 }
