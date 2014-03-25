@@ -1,4 +1,4 @@
-guifi.net-presentacion-decharlas.com
+raspberrypi-decharlas.com
 ====================================
 
-Presentación de la red libre guifi.net para la gente de decharlas.com
+Presentación de Raspbery Pi para la gente de decharlas.com
